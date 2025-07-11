@@ -1,4 +1,4 @@
-# 🏛️📜⚖️🎓LegalBot – Discord Legal Assistant
+# 🏛️📜⚖️🎓LegalBot – Discord Legal Assistant Link - https://discord.gg/5gsK34F4
 
 LegalBot is an intelligent Discord bot designed to answer legal questions clearly and simply. Built using Python and OpenRouter's AI, it provides instant support inside designated channels or via slash commands.
 
